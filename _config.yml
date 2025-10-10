@@ -8,17 +8,17 @@ baseurl: "/serdaninicolas.github.io"
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-# email_title: Email (Email title override)
-phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+name: Nicolas SERDANI
+title: Ingénieur DevOps
+email: serdaninicolas@gmail.com
+email_title: Email
+phone: 06 95 54 17 31
+phone_title: Phone
+# website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: jekyllrb
