@@ -3,7 +3,7 @@ name: Deploy CV to GitHub Pages
 on:
   push:
     branches:
-      - master  # ou main selon ton repo
+      - main
 
 permissions:
   contents: read
