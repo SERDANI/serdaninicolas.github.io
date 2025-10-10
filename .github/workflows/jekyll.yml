@@ -29,6 +29,7 @@ jobs:
       - name: Install dependencies
         run: |
           gem install bundler -v 2.1.4
+          gem install nokogiri -v 1.10.8 --platform ruby -- --use-system-libraries=false
           bundle _2.1.4_ install
 
       - name: Build site with Jekyll
