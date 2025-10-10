@@ -92,6 +92,40 @@ content:
     layout: list
     content:
       - layout: right
+        title: Société Générale
+        sub_title: DevOps Engineer
+        caption: January 2023 – Present
+        link: https://www.societegenerale.com
+        quote: >
+          Société Générale is one of Europe’s leading financial services groups, recognized for its innovation and strong IT ecosystem.
+        description: | # this will include new lines to allow paragraphs
+          I contribute to the modernization of technical environments and the automation of operational processes within Société Générale’s information system.
+      
+          **Key achievements:**
+      
+          • Designed, implemented, and maintained **GitHub Actions workflows** to handle the build process of backend, frontend, and batch applications (CI).  
+          • Automated the **deployment process** using GitHub Actions, **Helm**, **ArgoCD**, and **Kubernetes** (CD).
+      
+          • Worked on the **private cloud platform (DoItNow)**, including the integration, monitoring, and maintenance of components such as **RabbitMQ**, **OCP**, **PostgreSQL**, **Elasticsearch**, **Kibana**, **Vault**, **DNS**, and **certificates**.
+      
+          • Led the **migration of Grafana instances** to a centralized **Dataviz platform**, improving observability and monitoring reliability.
+      
+          • Managed the **migration of Oracle databases** from **Gen1 to Gen2** on private cloud (OCP).  
+            Prior to that, I **automated instance provisioning using Terraform** to ensure faster and more reliable deployments.
+      
+          • Automated and orchestrated operational tasks using **Kubernetes CronJobs** and **Python**.
+      
+          • Enhanced **logging** and improved the **resilience of Python scripts** in production.
+      
+          • Authored **technical documentation** and promoted **best practices** within the team.
+      
+          • Provided **production support** and **incident management**, including out-of-hours interventions.
+      
+          • Contributed to the **progressive decommissioning of legacy Gen1 environments and services**.
+      
+          • Performed **continuous technology watch** on **DevOps, CI/CD, and observability tools**.
+
+      - layout: right
         title: Company name
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
