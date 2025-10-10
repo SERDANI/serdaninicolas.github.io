@@ -1,5 +1,7 @@
 # Site
 repository: "SERDANI/serdaninicolas.github.io"
+url: "https://serdani.github.io"
+baseurl: "/serdaninicolas.github.io"
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
