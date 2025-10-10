@@ -91,7 +91,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Société Générale
         sub_title: DevOps Engineer
         caption: January 2023 – Present
@@ -125,7 +125,7 @@ content:
       
           • Performed **continuous technology watch** on **DevOps, CI/CD, and observability tools**.
 
-      - layout: right
+      - layout: left
         title: Company name
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
@@ -137,7 +137,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Institution name
         sub_title: Qualifications (eg. BA Performing Arts)
         caption: Date Range (eg. 2016 - 2019)
