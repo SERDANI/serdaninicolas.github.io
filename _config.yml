@@ -125,6 +125,8 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-remote-theme
+ - jekyll-include-cache
 
 exclude : [
   "Gemfile",
