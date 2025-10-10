@@ -28,8 +28,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          gem install bundler -v 2.4.22
-          bundle _2.4.22_ install
+          gem install bundler -v 2.1.4
+          bundle _2.1.4_ install
 
       - name: Build site with Jekyll
         run: bundle exec jekyll build
