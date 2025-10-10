@@ -24,7 +24,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7 # ou 2.6 selon ton Gemfile
+          ruby-version: 2.6 # ou 2.6 selon ton Gemfile
 
       - name: Install dependencies
         run: |
