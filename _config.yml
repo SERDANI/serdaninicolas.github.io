@@ -224,15 +224,6 @@ content:
           • Gestion du parc via **I-P@rk** et maintenance du matériel.  
           • Administration des utilisateurs et sécurité via **Active Directory**.
 
-      - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
   - title: Education
     layout: list
     content:
