@@ -39,13 +39,13 @@ about_content: |
   Ce qui me motive dans ce rôle, c’est de pouvoir travailler avec des **technologies de pointe**, d’**automatiser** les processus et d’**optimiser** les environnements techniques tout en continuant à apprendre et à innover.
   
   
-  **Domaines d’expertise :**
-    • Infrastructure as Code (**Terraform**, **Ansible**)
-    • Pipelines CI/CD (**Jenkins**, **GitLab CI**, **GitHub Actions**)
-    • Orchestration de conteneurs (**Docker**, **Kubernetes**)
-    • Plateformes Cloud (**Doitnow**)
-    • Supervision et observabilité (**Grafana**, **ELK Stack**)
-    • Code (**Python**)
+  **Domaines d’expertise :**<br><br>
+    - Infrastructure as Code (**Terraform**, **Ansible**)<br><br>
+    - Pipelines CI/CD (**Jenkins**, **GitLab CI**, **GitHub Actions**)<br><br>
+    - Orchestration de conteneurs (**Docker**, **Kubernetes**)<br><br>
+    - Plateformes Cloud (**Doitnow**)<br><br>
+    - Supervision et observabilité (**Grafana**, **ELK Stack**)<br><br>
+    - Code (**Python**)<br><br>
 
 content:
 
@@ -58,7 +58,7 @@ content:
         caption: Février 2024 – Aujourd’hui
         link: https://www.societegenerale.com
         quote: >
-          La Société Générale est l’un des principaux groupes bancaires européens, reconnue pour son innovation et la modernisation de son SI.
+          <img src="images/logo_sg.png" alt="Société Générale" height="30"> La Société Générale est l’un des principaux groupes bancaires européens, reconnue pour son innovation et la modernisation de son SI.
         description: |
           J’interviens sur la **modernisation des environnements techniques** et l’**automatisation des processus d’exploitation** au sein du SI de la Société Générale.
 
