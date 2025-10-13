@@ -45,7 +45,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: '<img src="images/logo_sg.png" height="100"><br>Société Générale (Mission ASTRELYA)'
+        title: '<img src="images/logo_sg.png" height="80"><br>Société Générale (Mission ASTRELYA)'
         sub_title: Ingénieur DevOps
         caption: Février 2024 – Aujourd’hui
         link: https://www.societegenerale.com
@@ -85,7 +85,7 @@ content:
           • Développement de **scripts Python** pour l’automatisation.
 
       - layout: left
-        title: '<img src="images/logo_orange.png" height="100"><br>Orange (Mission UMANIS)'
+        title: '<img src="images/logo_orange.png" height="110"><br>Orange (Mission UMANIS)'
         sub_title: DevOps Engineer
         caption: Mai 2020 – Octobre 2021
         link: https://www.orange.com
@@ -105,7 +105,7 @@ content:
           • **Veille technologique** et autoformation continue.
 
       - layout: left
-        title: '<img src="images/logo_bnp.png" height="100"><br>BNP Paribas (Mission UMANIS)'
+        title: '<img src="images/logo_bnp.png" height="80"><br>BNP Paribas (Mission UMANIS)'
         sub_title: Ingénieur de production informatique
         caption: Décembre 2017 – Mai 2020
         link: https://group.bnpparibas
@@ -124,7 +124,7 @@ content:
           • Formation et accompagnement des nouveaux arrivants.
 
       - layout: left
-        title: '<img src="images/logo_bnp.png" height="100"><br>BNP Paribas (Mission UMANIS)'
+        title: '<img src="images/logo_bnp.png" height="80"><br>BNP Paribas (Mission UMANIS)'
         sub_title: Analyste d’exploitation (alternance)
         caption: Janvier 2015 – Décembre 2017
         link: https://group.bnpparibas
@@ -141,7 +141,7 @@ content:
           • Rédaction de **documentation opérationnelle**.
 
       - layout: left
-        title: '<img src="images/logo_bnp.png" height="100"><br>BNP Paribas'
+        title: '<img src="images/logo_bnp.png" height="80"><br>BNP Paribas'
         sub_title: Technicien de support (stage)
         caption: Avril 2014 – Juin 2014
         link: https://group.bnpparibas
