@@ -109,15 +109,20 @@ content:
         quote: >
           BNP Paribas est l’un des principaux groupes bancaires internationaux.
         description: |
-          Administration, analyse et résolution d’incidents applicatifs impactant les environnements de production BNP Paribas.<br><br>
-          • Gestion et animation des **tâches problèmes** via **ITSM** et **SharePoint**.  
+          Administration, analyse et résolution de problèmes applicatifs impactant les environnements de production BNP Paribas.<br><br>
+          • Management d'équipe.
+          • Formation et accompagnement des nouveaux arrivants.
+          • Mise en place et animation de réunion de suivi des tâches problèmes.
+          • Affectation et suivi des **tâches problèmes** via **ITSM** et **SharePoint**.
+          • Modification ou mise en place de processus interne.
           • Développement et automatisation de tâches via **Shell/Bash**.  
           • Ordonnancement et supervision des chaînes de traitements via **Autosys**.  
           • Gestion et maintenance des **bases Oracle** et **MS SQL**.  
           • Administration des serveurs **WebSphere** et des comptes sécurisés (**eTac**, **Entrust**).  
-          • Supervision via **Nimsoft** et gestion de l’archivage via **TSM**.  
-          • Suivi et documentation via **Wiki UMANIS**.  
-          • Formation et accompagnement des nouveaux arrivants.
+          • Supervision via **Nimsoft** et gestion de l’archivage via **TSM**.
+          • Gestion et mise en place de purge automatisée de files systems sous **AIX** et **Linux**.
+          • Supervision de transfert de fichiers avec respect d’un protocole de sécurité défini (**CFT**)
+          • Suivi et documentation via **Wiki UMANIS**.
 
       - layout: left
         title: '<img src="images/logo_bnp.png" height="70"><br><br>BNP Paribas (Mission UMANIS)'
@@ -130,7 +135,8 @@ content:
           Traitement d’incidents de production et maintien en conditions opérationnelles.<br><br>
           • Administration des **bases de données** (Oracle, MS SQL).  
           • Ordonnancement automatisé via **Autosys** et **TNG**.  
-          • Analyse de scripts **Shell/Bash** et gestion des **File Systems AIX/Linux**.  
+          • Analyse de scripts **Shell/Bash** et gestion des **File Systems AIX/Linux**.
+          • Administration des comptes sécurisés (**eTac**, **Entrust**).
           • Gestion de la **sauvegarde des données sensibles** via **TSM**.  
           • Administration **WebSphere** et supervision des transferts **CFT**.  
           • Rédaction de **documentation opérationnelle**.
