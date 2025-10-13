@@ -45,7 +45,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: '<div style="text-align:center;"><img src="images/logo_sg.png" height="70"></div>Société Générale (Mission ASTRELYA)'
+        title: '<div style="text-align:center;"><img src="images/logo_sg.png" width="100"></div>Société Générale (Mission ASTRELYA)'
         sub_title: Ingénieur DevOps
         caption: Février 2024 – Aujourd’hui
         link: https://www.societegenerale.com
@@ -67,7 +67,7 @@ content:
           • **Veille technologique** continue sur les outils **DevOps**, **CI/CD** et **observabilité**.
 
       - layout: left
-        title: '<div style="text-align:center;"><img src="images/logo_euronext.png" height="100"></div>Euronext (Mission ASTRELYA)'
+        title: '<div style="text-align:center;"><img src="images/logo_euronext.png" width="100"></div>Euronext (Mission ASTRELYA)'
         sub_title: Ingénieur DevOps
         caption: Octobre 2021 – Février 2024
         link: https://www.euronext.com
