@@ -119,10 +119,10 @@ content:
           • Ordonnancement et supervision des chaînes de traitements via **Autosys**.  
           • Gestion et maintenance des **bases Oracle** et **MS SQL**.  
           • Administration des serveurs **WebSphere** et des comptes sécurisés (**eTac**, **Entrust**).  
-          • Supervision via **Nimsoft** et gestion de l’archivage via **TSM**.
-          • Gestion et mise en place de purge automatisée de files systems sous **AIX** et **Linux**.
-          • Supervision de transfert de fichiers avec respect d’un protocole de sécurité défini (**CFT**)
-          • Suivi et documentation via **Wiki UMANIS**.
+          • Supervision via **Nimsoft** et gestion de l’archivage via **TSM**.  
+          • Gestion et mise en place de purge automatisée de files systems sous **AIX** et **Linux**.  
+          • Supervision de transfert de fichiers avec respect d’un protocole de sécurité défini (**CFT**).  
+          • Suivi et documentation via **Wiki UMANIS**.  
 
       - layout: left
         title: '<img src="images/logo_bnp.png" height="70"><br><br>BNP Paribas (Mission UMANIS)'
@@ -135,11 +135,11 @@ content:
           Traitement d’incidents de production et maintien en conditions opérationnelles.<br><br>
           • Administration des **bases de données** (Oracle, MS SQL).  
           • Ordonnancement automatisé via **Autosys** et **TNG**.  
-          • Analyse de scripts **Shell/Bash** et gestion des **File Systems AIX/Linux**.
-          • Administration des comptes sécurisés (**eTac**, **Entrust**).
+          • Analyse de scripts **Shell/Bash** et gestion des **File Systems AIX/Linux**.  
+          • Administration des comptes sécurisés (**eTac**, **Entrust**).  
           • Gestion de la **sauvegarde des données sensibles** via **TSM**.  
           • Administration **WebSphere** et supervision des transferts **CFT**.  
-          • Rédaction de **documentation opérationnelle**.
+          • Rédaction de **documentation opérationnelle**.  
 
       - layout: left
         title: '<img src="images/logo_bnp.png" height="70"><br><br>BNP Paribas'
