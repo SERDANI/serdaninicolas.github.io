@@ -45,14 +45,10 @@ content:
     layout: list
     content:
       - layout: left
-        title: Société Générale (Mission ASTRELYA)
+        title: <img src="images/logo_sg.jpg" alt="SG" height="50"><br><br>Société Générale (Mission ASTRELYA)
         sub_title: Ingénieur DevOps
         caption: Février 2024 – Aujourd’hui
         link: https://www.societegenerale.com
-        additional_links:
-        - title: Link name
-          icon: fab fa-twitter
-          url: https://google.com
         quote: >
           La Société Générale est l’un des principaux groupes bancaires européens, reconnue pour son innovation et la modernisation de son SI.
         description: |
