@@ -54,18 +54,19 @@ linkedin_username: nicolas-serdani
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Nicolas, a **DevOps Engineer** with over 5 years of experience in production environments and infrastructure automation. 
+  Bonjour, je suis Nicolas, **Ingénieur DevOps** avec plus de 5 ans d’expérience dans les environnements de production et l’automatisation des infrastructures.
   
-  I transitioned from Production Engineering to DevOps because I'm passionate about **open-source technologies** and modern tooling. Over the past 5 years as a DevOps Engineer, I've worked with leading companies including <mark>Orange</mark>, <mark>Euronext</mark>, and currently <mark>Société Générale</mark>, where I've been delivering infrastructure solutions for the past 2 years.
+  Après plusieurs années dans l’ingénierie de production, j’ai évolué vers le DevOps, animé par ma passion pour les **technologies open source** et les outils modernes. Au cours de ces dernières années, j’ai eu l’opportunité de travailler pour des entreprises majeures telles que <mark>Orange</mark>, <mark>Euronext</mark> et actuellement <mark>Société Générale</mark>, où je contribue à la modernisation et à l’automatisation du système d’information.
 
-  What drives me in this role is the opportunity to work with cutting-edge technologies and continuously expand my skill set with industry-leading tools. I thrive in environments where I can automate, optimize, and innovate.
+  Ce qui me motive dans ce rôle, c’est la possibilité de travailler avec des **technologies de pointe**, d’**automatiser** les processus et d’**optimiser** les environnements techniques tout en continuant à apprendre et à innover.
 
-  Key areas of expertise:
-    - Infrastructure as Code (Terraform, Ansible)
-    - CI/CD pipelines (Jenkins, GitLab CI, GitHub Actions)
-    - Container orchestration (Docker, Kubernetes)
-    - Cloud platforms (AWS, Azure, GCP)
-    - Monitoring and observability (Prometheus, Grafana, ELK Stack)
+  **Domaines d’expertise :**
+    - Infrastructure as Code (**Terraform**, **Ansible**)
+    - Pipelines CI/CD (**Jenkins**, **GitLab CI**, **GitHub Actions**)
+    - Orchestration de conteneurs (**Docker**, **Kubernetes**)
+    - Plateformes Cloud (**AWS**, **Azure**, **GCP**)
+    - Supervision et observabilité (**Prometheus**, **Grafana**, **ELK Stack**)
+
 
 content:
 
