@@ -67,7 +67,7 @@ content:
           • **Veille technologique** continue sur les outils **DevOps**, **CI/CD** et **observabilité**.
 
       - layout: left
-        title: Euronext (Mission ASTRELYA)
+        title: '<img src="images/logo_sg.jpg" height="80" style="float:left; margin-right:15px;">Euronext (Mission ASTRELYA)'
         sub_title: Ingénieur DevOps
         caption: Octobre 2021 – Février 2024
         link: https://www.euronext.com
