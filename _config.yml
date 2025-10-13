@@ -157,7 +157,7 @@ content:
     layout: text
     content: |
       <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
-        <img src="images/logos/socgen.png" alt="SG" height="50">
+        <img src="images/logo_sg.png" alt="SG" height="50">
         <img src="images/logos/euronext.png" alt="Euronext" height="50">
         <img src="images/logos/orange.png" alt="Orange" height="50">
         <img src="images/logos/python.png" alt="Python" height="50">
