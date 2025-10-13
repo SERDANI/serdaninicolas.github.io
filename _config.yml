@@ -45,7 +45,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: <img src="images/logo_sg.jpg" alt="SG" height="50"><br><br>Société Générale (Mission ASTRELYA)
+        title: <img src="images/logo_sg.jpg" height="200"><br><br>Société Générale (Mission ASTRELYA)
         sub_title: Ingénieur DevOps
         caption: Février 2024 – Aujourd’hui
         link: https://www.societegenerale.com
