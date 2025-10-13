@@ -85,7 +85,7 @@ content:
           • Développement de **scripts Python** pour l’automatisation.
 
       - layout: left
-        title: '<div style="text-align:center; margin-bottom:6px;"><img src="images/logo_orange.png" height="85" style="max-width:150px; height:auto;"></div>Orange (Mission UMANIS)
+        title: '<div style="text-align:center; margin-bottom:6px;"><img src="images/logo_orange.png" height="85" style="max-width:150px; height:auto;"></div>Orange (Mission UMANIS)'
         sub_title: DevOps Engineer
         caption: Mai 2020 – Octobre 2021
         link: https://www.orange.com
@@ -105,7 +105,7 @@ content:
           • **Veille technologique** et autoformation continue.
 
       - layout: left
-        title: '<div style="text-align:center; margin-bottom:6px;"><img src="images/logo_bnp.png" height="85" style="max-width:150px; height:auto;"></div>BNP Paribas (Mission UMANIS)
+        title: '<div style="text-align:center; margin-bottom:6px;"><img src="images/logo_bnp.png" height="85" style="max-width:150px; height:auto;"></div>BNP Paribas (Mission UMANIS)'
         sub_title: Ingénieur de production informatique
         caption: Décembre 2017 – Mai 2020
         link: https://group.bnpparibas
@@ -124,7 +124,7 @@ content:
           • Formation et accompagnement des nouveaux arrivants.
 
       - layout: left
-        title: '<div style="text-align:center; margin-bottom:6px;"><img src="images/logo_bnp.png" height="85" style="max-width:150px; height:auto;"></div> BNP Paribas (Mission UMANIS)
+        title: '<div style="text-align:center; margin-bottom:6px;"><img src="images/logo_bnp.png" height="85" style="max-width:150px; height:auto;"></div> BNP Paribas (Mission UMANIS)'
         sub_title: Analyste d’exploitation (alternance)
         caption: Janvier 2015 – Décembre 2017
         link: https://group.bnpparibas
