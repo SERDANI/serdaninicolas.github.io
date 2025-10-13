@@ -91,6 +91,7 @@ content:
   - title: Experience
     layout: list
     content:
+    
       - layout: left
         icon: fab fa-github
         title: Société Générale
@@ -125,6 +126,132 @@ content:
           • Contributed to the **progressive decommissioning of legacy Gen1 environments and services**.
       
           • Performed **continuous technology watch** on **DevOps, CI/CD, and observability tools**.
+
+        - title: Experience
+    layout: list
+    content:
+      - layout: left
+        icon: fab fa-github
+        title: Société Générale
+        sub_title: Ingénieur DevOps
+        caption: January 2023 – Present
+        link: https://www.societegenerale.com
+        quote: >
+          Société Générale est l’un des principaux groupes de services financiers européens, reconnu pour son innovation et son écosystème IT robuste.
+        description: | # this will include new lines to allow paragraphs
+          Je contribue à la **modernisation des environnements techniques** et à l’**automatisation des processus opérationnels** au sein du système d’information de la Société Générale.
+      
+          **Réalisations clés :**
+      
+          • Conception, implémentation et maintenance de **workflows GitHub Actions** pour la partie build (backend, frontend, batch).  
+          • Automatisation du **déploiement** via **GitHub Actions**, **Helm**, **ArgoCD** et **Kubernetes**.  
+          • Travail sur la **plateforme cloud privée DoItNow**, intégration et supervision de composants (**RabbitMQ**, **OCP**, **PostgreSQL**, **Elasticsearch**, **Kibana**, **Vault**, **DNS**, certificats).  
+          • Migration des instances **Grafana** vers une **plateforme Dataviz centralisée**, améliorant l’observabilité.  
+          • Migration des bases **Oracle Gen1 → Gen2** sur OCP et automatisation du provisioning via **Terraform**.  
+          • Développement de scripts **Python** et **Kubernetes CronJobs** pour automatiser les tâches opérationnelles.  
+          • Amélioration de la **résilience** et des **logs** des scripts en production.  
+          • Rédaction de **documentation technique** et partage des **bonnes pratiques**.  
+          • Support et gestion d’incidents en **production** (interventions hors horaires).  
+          • **Décommissionnement progressif** des environnements et services legacy.  
+          • **Veille technologique** continue sur les outils DevOps, CI/CD et observabilité.
+
+      - layout: left
+        title: Euronext (Mission ASTRELYA)
+        sub_title: Ingénieur DevOps
+        caption: October 2021 – February 2024
+        link: https://www.euronext.com
+        quote: >
+          Euronext est la principale bourse paneuropéenne, opérant sur plusieurs marchés en Europe.
+        description: | # this will include new lines to allow paragraphs
+          Intégré à l’équipe DevOps d’Euronext, j’ai travaillé sur la **centralisation des logs et métriques applicatives** afin d’offrir une meilleure observabilité et supervision.
+
+          **Réalisations clés :**
+          
+          • Centralisation des **logs applicatifs** et **métriques systèmes** on-premises.  
+          • Supervision des **métriques Kafka topics** et **MySQLd Exporter**.  
+          • Modification d’une **Lambda AWS** pour collecter et centraliser les logs **CloudWatch**.  
+          • **Automatisation** de l’installation et du déploiement via **Ansible** (playbooks, rôles) et **Jenkins**.  
+          • Gestion du **versioning** et des **releases** via **Git**, **Jira**, **Jenkins**.  
+          • Rédaction de **documentation technique** sous **Confluence**.  
+          • Développement de **scripts Python** pour l’automatisation.  
+
+      - layout: left
+        title: Orange (Mission UMANIS)
+        sub_title: DevOps Engineer
+        caption: May 2020 – October 2021
+        link: https://www.orange.com
+        quote: >
+          Orange est un acteur majeur des télécommunications et des services numériques en Europe.
+        description: | # this will include new lines to allow paragraphs
+          Membre de l’équipe DOMA (DévelOppement-AutoMAtisation), j’ai contribué au **développement et au maintien d’automates** destinés à l’industrialisation des processus d’Orange.
+
+          **Réalisations clés :**
+          
+          • Développement d’automates via **Ansible** et **scripts Python**.  
+          • Réalisation des **phases de test** en amont du développement.  
+          • Suivi de projet **agile** via **JIRA**.  
+          • Hébergement et gestion du code source via **GitLab**.  
+          • Création et ordonnancement de **workflows HPOO**.  
+          • Mise en production et maintien en condition opérationnelle des automates.  
+          • Développement d’**actions AMADEUS** pour permettre aux clients de déclencher des automates de manière autonome.  
+          • **Documentation** technique et fonctionnelle.  
+          • **Veille technologique** et autoformation continue.
+
+      - layout: left
+        title: BNP Paribas (Mission UMANIS)
+        sub_title: Ingénieur de production informatique
+        caption: December 2017 – May 2020
+        link: https://group.bnpparibas
+        quote: >
+          BNP Paribas est l’un des principaux groupes bancaires internationaux.
+        description: | # this will include new lines to allow paragraphs
+          Administration, analyse et résolution d’incidents applicatifs impactant les environnements de production BNP Paribas.
+
+          **Réalisations clés :**
+          
+          • Gestion et animation des **tâches problèmes** via **ITSM** et **SharePoint**.  
+          • Développement et automatisation de tâches via **Shell/Bash**.  
+          • Ordonnancement et supervision des chaînes de traitements via **Autosys**.  
+          • Gestion et maintenance des **bases Oracle** et **MS SQL**.  
+          • Administration des serveurs **WebSphere** et des comptes sécurisés (**eTac**, **Entrust**).  
+          • Supervision via **Nimsoft** et gestion de l’archivage via **TSM**.  
+          • Suivi et documentation via **Wiki UMANIS**.  
+          • Formation et accompagnement des nouveaux arrivants.
+
+      - layout: left
+        title: BNP Paribas
+        sub_title: Analyste d’exploitation (alternance)
+        caption: January 2015 – December 2017
+        link: https://group.bnpparibas
+        quote: >
+          Alternance au sein de l’équipe de production informatique de BNP Paribas.
+        description: | # this will include new lines to allow paragraphs
+          Traitement d’incidents de production et maintien en conditions opérationnelles.
+
+          **Réalisations clés :**
+          
+          • Administration des **bases de données** (Oracle, MS SQL).  
+          • Ordonnancement automatisé via **Autosys** et **TNG**.  
+          • Analyse de scripts **Shell/Bash** et gestion des **File Systems AIX/Linux**.  
+          • Gestion de la **sauvegarde des données sensibles** via **TSM**.  
+          • Administration **WebSphere** et supervision des transferts **CFT**.  
+          • Rédaction de **documentation opérationnelle**.
+
+      - layout: left
+        title: BNP Paribas
+        sub_title: Technicien de support (stage)
+        caption: April 2014 – June 2014
+        link: https://group.bnpparibas
+        quote: >
+          Stage au sein de l’équipe support IT de BNP Paribas.
+        description: | # this will include new lines to allow paragraphs
+          Assistance et support technique auprès des utilisateurs, gestion du parc informatique et sécurité des données.
+
+          **Réalisations clés :**
+          
+          • Support utilisateurs et résolution d’incidents techniques.  
+          • Gestion du parc via **I-P@rk** et maintenance du matériel.  
+          • Administration des utilisateurs et sécurité via **Active Directory**.
 
       - layout: left
         title: Company name
