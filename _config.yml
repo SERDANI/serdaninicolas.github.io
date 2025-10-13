@@ -88,7 +88,7 @@ content:
           **Réalisations principales :**
 
           • Mise en place et maintenance de **workflows GitHub Actions** pour la **CI/CD** des applications back-end, front-end et batchs.  
-          • Automatisation complète du **build** (CI) et du **déploiement** (CD) via **Helm**, **ArgoCD** et **Kubernetes**.  
+          • Automatisation complète du **déploiement** (CD) via **Helm**, **ArgoCD** et **Kubernetes**.  
           • Administration du **cloud privé DoItNow**, incluant l’intégration, la supervision et la maintenance de composants tels que **RabbitMQ**, **OpenShift (OCP)**, **PostgreSQL**, **Elasticsearch**, **Kibana**, **Vault**, **DNS** et **certificats**.  
           • **Migration des instances Grafana** vers une instance **Dataviz** pour unifier et fiabiliser le monitoring.  
           • **Migration des bases Oracle GEN1 vers GEN2** sur cloud privé (OCP), avec **automatisation du déploiement des instances via Terraform**.  
@@ -102,11 +102,11 @@ content:
       - layout: left
         title: Euronext (Mission ASTRELYA)
         sub_title: Ingénieur DevOps
-        caption: October 2021 – February 2024
+        caption: Octobre 2021 – Février 2024
         link: https://www.euronext.com
         quote: >
           Euronext est la principale bourse paneuropéenne, opérant sur plusieurs marchés en Europe.
-        description: | # this will include new lines to allow paragraphs
+        description:
           Intégré à l’équipe DevOps d’Euronext, j’ai travaillé sur la **centralisation des logs et métriques applicatives** afin d’offrir une meilleure observabilité et supervision.
 
           **Réalisations clés :**
@@ -122,12 +122,12 @@ content:
       - layout: left
         title: Orange (Mission UMANIS)
         sub_title: DevOps Engineer
-        caption: May 2020 – October 2021
+        caption: Mai 2020 – Octobre 2021
         link: https://www.orange.com
         quote: >
           Orange est un acteur majeur des télécommunications et des services numériques en Europe.
         description: | # this will include new lines to allow paragraphs
-          Membre de l’équipe DOMA (DévelOppement-AutoMAtisation), j’ai contribué au **développement et au maintien d’automates** destinés à l’industrialisation des processus d’Orange.
+          Membre de l’équipe DOMA (DévelOppement-AutoMAtisation), j’ai contribué au **développement et au maintien d’automates** destinés à l’industrialisation des processu+s d’Orange.
 
           **Réalisations clés :**
           
@@ -144,7 +144,7 @@ content:
       - layout: left
         title: BNP Paribas (Mission UMANIS)
         sub_title: Ingénieur de production informatique
-        caption: December 2017 – May 2020
+        caption: Décembre 2017 – Mai 2020
         link: https://group.bnpparibas
         quote: >
           BNP Paribas est l’un des principaux groupes bancaires internationaux.
@@ -165,7 +165,7 @@ content:
       - layout: left
         title: BNP Paribas
         sub_title: Analyste d’exploitation (alternance)
-        caption: January 2015 – December 2017
+        caption: Janvier 2015 – Décembre 2017
         link: https://group.bnpparibas
         quote: >
           Alternance au sein de l’équipe de production informatique de BNP Paribas.
@@ -184,7 +184,7 @@ content:
       - layout: left
         title: BNP Paribas
         sub_title: Technicien de support (stage)
-        caption: April 2014 – June 2014
+        caption: Avril 2014 – Juin 2014
         link: https://group.bnpparibas
         quote: >
           Stage au sein de l’équipe support IT de BNP Paribas.
