@@ -51,7 +51,7 @@ content:
         link: https://www.societegenerale.com
         additional_links:
         - title: Link name
-          icon: fa-twitter
+          icon: fab fa-twitter
           url: https://google.com
         quote: >
           La Société Générale est l’un des principaux groupes bancaires européens, reconnue pour son innovation et la modernisation de son SI.
