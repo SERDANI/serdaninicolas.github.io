@@ -18,7 +18,7 @@ phone_title: Phone
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
@@ -92,6 +92,7 @@ content:
     layout: list
     content:
       - layout: left
+        icon: fab fa-github
         title: Société Générale
         sub_title: DevOps Engineer
         caption: January 2023 – Present
