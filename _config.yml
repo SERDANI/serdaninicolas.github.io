@@ -51,9 +51,9 @@ linkedin_username: nicolas-serdani
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: À propos de moi
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Bonjour, je suis Nicolas, **Ingénieur DevOps** avec plus de 5 ans d’expérience dans les environnements de production et l’automatisation des infrastructures.
   
   Après plusieurs années dans l’ingénierie de production, j’ai évolué vers le DevOps, animé par ma passion pour les **technologies open source** et les outils modernes. Au cours de ces dernières années, j’ai eu l’opportunité de travailler pour des entreprises majeures telles que <mark>Orange</mark>, <mark>Euronext</mark> et actuellement <mark>Société Générale</mark>, où je contribue à la modernisation et à l’automatisation du système d’information.
@@ -64,8 +64,9 @@ about_content: | # this will include new lines to allow paragraphs
     - Infrastructure as Code (**Terraform**, **Ansible**)
     - Pipelines CI/CD (**Jenkins**, **GitLab CI**, **GitHub Actions**)
     - Orchestration de conteneurs (**Docker**, **Kubernetes**)
-    - Plateformes Cloud (**AWS**, **Azure**, **GCP**)
-    - Supervision et observabilité (**Prometheus**, **Grafana**, **ELK Stack**)
+    - Plateformes Cloud (**Doitnow**)
+    - Supervision et observabilité (**Grafana**, **ELK Stack**)
+    - Code (**Python**)
 
 
 content:
