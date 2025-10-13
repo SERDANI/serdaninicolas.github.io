@@ -49,10 +49,10 @@ content:
         sub_title: Ingénieur DevOps
         caption: Février 2024 – Aujourd’hui
         link: https://www.societegenerale.com
-        additional_links: (optional)
-          - title: Link name
-            icon: fa-twitter
-            url: https://google.com
+        additional_links:
+        - title: Link name
+          icon: fa-twitter
+          url: https://google.com
         quote: >
           La Société Générale est l’un des principaux groupes bancaires européens, reconnue pour son innovation et la modernisation de son SI.
         description: |
