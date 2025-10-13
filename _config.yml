@@ -52,9 +52,8 @@ content:
         quote: >
           La Société Générale est l’un des principaux groupes bancaires européens, reconnue pour son innovation et la modernisation de son SI.
         description: |
-          J’interviens sur la **modernisation des environnements techniques** et l’**automatisation des processus d’exploitation** au sein du SI de la Société Générale.
-
-          • Mise en place et maintenance de **workflows GitHub Actions** pour la **CI/CD** des applications back-end, front-end et batchs.  
+          J’interviens sur la **modernisation des environnements techniques** et l’**automatisation des processus d’exploitation** au sein du SI de la Société Générale.<br><br>
+          • Mise en place et maintenance de **workflows GitHub Actions** pour la **CI/CD** des applications back-end, front-end et batchs.<br>
           • Automatisation complète du **déploiement** (CD) via **Helm**, **ArgoCD** et **Kubernetes**.  
           • Administration du **cloud privé DoItNow**, incluant l’intégration, la supervision et la maintenance de composants tels que **RabbitMQ**, **OpenShift (OCP)**, **PostgreSQL**, **Elasticsearch**, **Kibana**, **Vault**, **DNS** et **certificats**.  
           • **Migration des instances Grafana** vers une instance **Dataviz** pour unifier et fiabiliser le monitoring.  
@@ -85,7 +84,7 @@ content:
           • Développement de **scripts Python** pour l’automatisation.
 
       - layout: left
-        title: '<img src="images/logo_orange.png" height="110"><br><br>Orange (Mission UMANIS)'
+        title: '<img src="images/logo_orange.png" height="120"><br><br>Orange (Mission UMANIS)'
         sub_title: DevOps Engineer
         caption: Mai 2020 – Octobre 2021
         link: https://www.orange.com
