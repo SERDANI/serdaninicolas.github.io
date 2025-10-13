@@ -21,34 +21,7 @@ phone_title: Phone
 darkmode: false
 
 # Social links
-#twitter_username: jekyllrb
-#github_username:  jekyll
-#stackoverflow_username: "00000001"
-#dribbble_username: jekyll
-#facebook_username: jekyll
-#flickr_username: jekyll
-#instagram_username: jekyll
 linkedin_username: nicolas-serdani
-#xing_username: jekyll
-#pinterest_username: jekyll
-#youtube_username: jekyll
-#orcid_username: 0000-0000-0000-0000
-#googlescholar_username: D847cGsAAAAJ
-
-# Additional icon links
-#additional_links:
-#- title: Link name
-#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 about_title: À propos de moi
@@ -68,13 +41,11 @@ about_content: |
     - Supervision et observabilité (**Grafana**, **ELK Stack**)
     - Code (**Python**)
 
-
 content:
 
   - title: Expériences
     layout: list
     content:
-    
       - layout: left
         title: Société Générale (Mission ASTRELYA)
         sub_title: Ingénieur DevOps
@@ -82,11 +53,10 @@ content:
         link: https://www.societegenerale.com
         quote: >
           La Société Générale est l’un des principaux groupes bancaires européens, reconnue pour son innovation et la modernisation de son SI.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           J’interviens sur la **modernisation des environnements techniques** et l’**automatisation des processus d’exploitation** au sein du SI de la Société Générale.
 
           **Réalisations principales :**
-
           • Mise en place et maintenance de **workflows GitHub Actions** pour la **CI/CD** des applications back-end, front-end et batchs.  
           • Automatisation complète du **déploiement** (CD) via **Helm**, **ArgoCD** et **Kubernetes**.  
           • Administration du **cloud privé DoItNow**, incluant l’intégration, la supervision et la maintenance de composants tels que **RabbitMQ**, **OpenShift (OCP)**, **PostgreSQL**, **Elasticsearch**, **Kibana**, **Vault**, **DNS** et **certificats**.  
@@ -106,18 +76,17 @@ content:
         link: https://www.euronext.com
         quote: >
           Euronext est la principale bourse paneuropéenne, opérant sur plusieurs marchés en Europe.
-        description:
+        description: |
           Intégré à l’équipe DevOps d’Euronext, j’ai travaillé sur la **centralisation des logs et métriques applicatives** afin d’offrir une meilleure observabilité et supervision.
 
           **Réalisations clés :**
-          
           • Centralisation des **logs applicatifs** et **métriques systèmes** on-premises.  
           • Supervision des **métriques Kafka topics** et **MySQLd Exporter**.  
           • Modification d’une **Lambda AWS** pour collecter et centraliser les logs **CloudWatch**.  
           • **Automatisation** de l’installation et du déploiement via **Ansible** (playbooks, rôles) et **Jenkins**.  
           • Gestion du **versioning** et des **releases** via **Git**, **Jira**, **Jenkins**.  
           • Rédaction de **documentation technique** sous **Confluence**.  
-          • Développement de **scripts Python** pour l’automatisation.  
+          • Développement de **scripts Python** pour l’automatisation.
 
       - layout: left
         title: Orange (Mission UMANIS)
@@ -126,11 +95,10 @@ content:
         link: https://www.orange.com
         quote: >
           Orange est un acteur majeur des télécommunications et des services numériques en Europe.
-        description: | # this will include new lines to allow paragraphs
-          Membre de l’équipe DOMA (DévelOppement-AutoMAtisation), j’ai contribué au **développement et au maintien d’automates** destinés à l’industrialisation des processu+s d’Orange.
+        description: |
+          Membre de l’équipe DOMA (DévelOppement-AutoMAtisation), j’ai contribué au **développement et au maintien d’automates** destinés à l’industrialisation des processus d’Orange.
 
           **Réalisations clés :**
-          
           • Développement d’automates via **Ansible** et **scripts Python**.  
           • Réalisation des **phases de test** en amont du développement.  
           • Suivi de projet **agile** via **JIRA**.  
@@ -148,11 +116,10 @@ content:
         link: https://group.bnpparibas
         quote: >
           BNP Paribas est l’un des principaux groupes bancaires internationaux.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           Administration, analyse et résolution d’incidents applicatifs impactant les environnements de production BNP Paribas.
 
           **Réalisations clés :**
-          
           • Gestion et animation des **tâches problèmes** via **ITSM** et **SharePoint**.  
           • Développement et automatisation de tâches via **Shell/Bash**.  
           • Ordonnancement et supervision des chaînes de traitements via **Autosys**.  
@@ -169,11 +136,10 @@ content:
         link: https://group.bnpparibas
         quote: >
           Alternance au sein de l’équipe de production informatique de BNP Paribas.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           Traitement d’incidents de production et maintien en conditions opérationnelles.
 
           **Réalisations clés :**
-          
           • Administration des **bases de données** (Oracle, MS SQL).  
           • Ordonnancement automatisé via **Autosys** et **TNG**.  
           • Analyse de scripts **Shell/Bash** et gestion des **File Systems AIX/Linux**.  
@@ -188,11 +154,10 @@ content:
         link: https://group.bnpparibas
         quote: >
           Stage au sein de l’équipe support IT de BNP Paribas.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           Assistance et support technique auprès des utilisateurs, gestion du parc informatique et sécurité des données.
 
           **Réalisations clés :**
-          
           • Support utilisateurs et résolution d’incidents techniques.  
           • Gestion du parc via **I-P@rk** et maintenance du matériel.  
           • Administration des utilisateurs et sécurité via **Active Directory**.
@@ -200,7 +165,6 @@ content:
   - title: Diplômes
     layout: list
     content:
-
       - layout: left
         title: ETNA, école d'alternance en informatique
         sub_title: Architecte Systèmes, Réseaux et Sécurité
@@ -223,7 +187,7 @@ content:
           - Anglais
           - Mathématiques
           - Machine Learning
-  
+
           **Première année de master :**
           - C avancé (Gestion de la mémoire, Win32)
           - Rédaction et analyse de documents
@@ -231,7 +195,7 @@ content:
           - Sécurité réseau
           - Concept de VoIP
           - Administration de messagerie
-  
+
           **Projet de fin d’études (EIP) :**
           - Chef de projet
           - Gestion du projet et de l'équipe
@@ -244,7 +208,7 @@ content:
           Formation spécialisée en réseaux et télécommunications.
         description: |
           Obtention du diplôme universitaire de technologie (DUT) en Réseaux et Télécommunications.
-  
+
       - layout: left
         title: Lycée Polyvalent Privé Catholique La Salle Saint-Charles (La Réunion)
         sub_title: Baccalauréat Scientifique, Sciences de la Vie et de la Terre
@@ -253,29 +217,18 @@ content:
           Formation secondaire orientée sciences.
         description: |
           Obtention du Baccalauréat Scientifique, spécialité Sciences de la Vie et de la Terre.
-  
-        - layout: left
-          title: Institution name
-          sub_title: Qualifications (eg. BA Performing Arts)
-          caption: Date Range (eg. 2016 - 2019)
-          quote: >
-            Short institution or course description (optional)
-          description: | # this will include new lines to allow paragraphs
-            Description of qualification
-  
+
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
 remote_theme: sproogen/modern-resume-theme
 
 sass:
@@ -287,15 +240,14 @@ plugins:
  - jekyll-remote-theme
  - jekyll-include-cache
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "vendor/bundle/"
+  - "vendor/cache/"
+  - "vendor/gems/"
+  - "vendor/ruby/"
+  - "lib/"
+  - "scripts/"
+  - "docker-compose.yml"
