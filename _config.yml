@@ -28,25 +28,16 @@ about_title: À propos de moi
 about_profile_image: images/profile.jpg
 about_content: |
   Bonjour, je suis Nicolas, **Ingénieur DevOps** avec 10 ans d’expérience dans les environnements de production et l’automatisation des infrastructures.
-
-  
   Après 5 ans en tant qu’ingénieur de production et 5 ans en DevOps, j’ai acquis une expertise complète dans l’**industrialisation des environnements techniques**, l’**automatisation des processus** et la **supervision des systèmes complexes**.  
-
-
   J’ai eu l’opportunité de travailler pour des entreprises majeures telles que <mark>Orange</mark>, <mark>Euronext</mark> et actuellement <mark>Société Générale</mark>, où je contribue à la modernisation et à l’automatisation du système d’information.
-
-
   Ce qui me motive dans ce rôle, c’est de pouvoir travailler avec des **technologies de pointe**, d’**automatiser** les processus et d’**optimiser** les environnements techniques tout en continuant à apprendre et à innover.
-
-
   **Domaines d’expertise :**
-    - Infrastructure as Code (**Terraform**, **Ansible**)
-    - Pipelines CI/CD (**Jenkins**, **GitLab CI**, **GitHub Actions**)
-    - Orchestration de conteneurs (**Docker**, **Kubernetes**)
-    - Plateformes Cloud (**Doitnow**)
-    - Supervision et observabilité (**Grafana**, **ELK Stack**)
-    - Code (**Python**)
-
+    • Infrastructure as Code (**Terraform**, **Ansible**)
+    • Pipelines CI/CD (**Jenkins**, **GitLab CI**, **GitHub Actions**)
+    • Orchestration de conteneurs (**Docker**, **Kubernetes**)
+    • Plateformes Cloud (**Doitnow**)
+    • Supervision et observabilité (**Grafana**, **ELK Stack**)
+    • Code (**Python**)
 
 content:
 
@@ -63,7 +54,6 @@ content:
         description: |
           J’interviens sur la **modernisation des environnements techniques** et l’**automatisation des processus d’exploitation** au sein du SI de la Société Générale.
 
-          **Réalisations principales :**
           • Mise en place et maintenance de **workflows GitHub Actions** pour la **CI/CD** des applications back-end, front-end et batchs.  
           • Automatisation complète du **déploiement** (CD) via **Helm**, **ArgoCD** et **Kubernetes**.  
           • Administration du **cloud privé DoItNow**, incluant l’intégration, la supervision et la maintenance de composants tels que **RabbitMQ**, **OpenShift (OCP)**, **PostgreSQL**, **Elasticsearch**, **Kibana**, **Vault**, **DNS** et **certificats**.  
@@ -86,7 +76,6 @@ content:
         description: |
           Intégré à l’équipe DevOps d’Euronext, j’ai travaillé sur la **centralisation des logs et métriques applicatives** afin d’offrir une meilleure observabilité et supervision.
 
-          **Réalisations clés :**
           • Centralisation des **logs applicatifs** et **métriques systèmes** on-premises.  
           • Supervision des **métriques Kafka topics** et **MySQLd Exporter**.  
           • Modification d’une **Lambda AWS** pour collecter et centraliser les logs **CloudWatch**.  
@@ -105,7 +94,6 @@ content:
         description: |
           Membre de l’équipe DOMA (DévelOppement-AutoMAtisation), j’ai contribué au **développement et au maintien d’automates** destinés à l’industrialisation des processus d’Orange.
 
-          **Réalisations clés :**
           • Développement d’automates via **Ansible** et **scripts Python**.  
           • Réalisation des **phases de test** en amont du développement.  
           • Suivi de projet **agile** via **JIRA**.  
@@ -126,7 +114,6 @@ content:
         description: |
           Administration, analyse et résolution d’incidents applicatifs impactant les environnements de production BNP Paribas.
 
-          **Réalisations clés :**
           • Gestion et animation des **tâches problèmes** via **ITSM** et **SharePoint**.  
           • Développement et automatisation de tâches via **Shell/Bash**.  
           • Ordonnancement et supervision des chaînes de traitements via **Autosys**.  
@@ -146,7 +133,6 @@ content:
         description: |
           Traitement d’incidents de production et maintien en conditions opérationnelles.
 
-          **Réalisations clés :**
           • Administration des **bases de données** (Oracle, MS SQL).  
           • Ordonnancement automatisé via **Autosys** et **TNG**.  
           • Analyse de scripts **Shell/Bash** et gestion des **File Systems AIX/Linux**.  
@@ -164,7 +150,6 @@ content:
         description: |
           Assistance et support technique auprès des utilisateurs, gestion du parc informatique et sécurité des données.
 
-          **Réalisations clés :**
           • Support utilisateurs et résolution d’incidents techniques.  
           • Gestion du parc via **I-P@rk** et maintenance du matériel.  
           • Administration des utilisateurs et sécurité via **Active Directory**.
@@ -199,12 +184,14 @@ content:
         description: |
           Obtention du Baccalauréat Scientifique, spécialité Sciences de la Vie et de la Terre.
 
-  - title: A Little More About Me
+  - title: À propos de moi un peu plus
     layout: text
     content: |
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      En dehors de mon travail en DevOps, je suis passionné par les **technologies et les jeux vidéo sur PC**, les **jeux de société** pour leur dimension stratégique, la **randonnée** et le **football**. 
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Je suis également papa et j’adore passer du temps en famille, m’amuser et partager des moments avec mon fils, ce qui me permet de développer patience, créativité et esprit d’équipe.
+
+      Ces activités personnelles renforcent des qualités que j’applique également dans mon travail : **curiosité, persévérance, sens de l’organisation** et capacité à collaborer efficacement au sein d’équipes techniques.
 
 # Footer
 footer_show_references: true
