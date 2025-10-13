@@ -45,7 +45,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: '<img src="images/logo_sg.png" height="70"><br><br>Société Générale (Mission ASTRELYA)'
+        title: '<img src="images/logo_sg.png" height="60"><br><br>Société Générale (Mission ASTRELYA)'
         sub_title: Ingénieur DevOps
         caption: Février 2024 – Aujourd’hui
         link: https://www.societegenerale.com
@@ -67,7 +67,7 @@ content:
           • **Veille technologique** continue sur les outils **DevOps**, **CI/CD** et **observabilité**.
 
       - layout: left
-        title: '<img src="images/logo_euronext.png" height="100"><br><br>Euronext (Mission ASTRELYA)'
+        title: '<img src="images/logo_euronext.png" height="90"><br><br>Euronext (Mission ASTRELYA)'
         sub_title: Ingénieur DevOps
         caption: Octobre 2021 – Février 2024
         link: https://www.euronext.com
@@ -85,7 +85,7 @@ content:
           • Développement de **scripts Python** pour l’automatisation.
 
       - layout: left
-        title: '<img src="images/logo_orange.png" height="130"><br><br>Orange (Mission UMANIS)'
+        title: '<img src="images/logo_orange.png" height="110"><br><br>Orange (Mission UMANIS)'
         sub_title: DevOps Engineer
         caption: Mai 2020 – Octobre 2021
         link: https://www.orange.com
