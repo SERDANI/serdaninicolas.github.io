@@ -172,33 +172,7 @@ content:
         quote: >
           Formation en alternance en informatique, alliant théorie et pratique sur les systèmes, réseaux et sécurité.
         description: | 
-          **Première année de bachelor :**
-          - Réseau IPv4
-          - Base de l’administration système (UNIX)
-          - Administration Microsoft Windows (Windows Server 2012, Windows 7)
-          - Administration des serveurs Web UNIX (LAMP, Nginx, proxy)
-          - Administration de Bases de données (MySQL, PostgreSQL)
-          - Technologies Web (CSS, JS, HTML5, PHP)
-          - Développement / Scripting PHP
-          - Développement JavaScript (MEAN stack, Restful API)
-          - Optimisation et sécurité des développements Web
-          - Développement en C
-          - Communication, marketing, gestion de projets et méthodologie
-          - Anglais
-          - Mathématiques
-          - Machine Learning
-
-          **Première année de master :**
-          - C avancé (Gestion de la mémoire, Win32)
-          - Rédaction et analyse de documents
-          - Réseau avancé (IPv4, IPv6, Routage OSPF, BGP et EIGRP)
-          - Sécurité réseau
-          - Concept de VoIP
-          - Administration de messagerie
-
-          **Projet de fin d’études (EIP) :**
-          - Chef de projet
-          - Gestion du projet et de l'équipe
+          Obtention du master Architecte Systèmes, Réseaux et Sécurité de niveau 2.
 
       - layout: left
         title: Université Paris-Est Créteil (UPEC)
