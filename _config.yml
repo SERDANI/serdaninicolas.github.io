@@ -93,7 +93,6 @@ content:
     content:
     
       - layout: left
-        icon: fab fa-github
         title: Société Générale
         sub_title: DevOps Engineer
         caption: January 2023 – Present
@@ -126,34 +125,6 @@ content:
           • Contributed to the **progressive decommissioning of legacy Gen1 environments and services**.
       
           • Performed **continuous technology watch** on **DevOps, CI/CD, and observability tools**.
-
-        - title: Experience
-    layout: list
-    content:
-      - layout: left
-        icon: fab fa-github
-        title: Société Générale
-        sub_title: Ingénieur DevOps
-        caption: January 2023 – Present
-        link: https://www.societegenerale.com
-        quote: >
-          Société Générale est l’un des principaux groupes de services financiers européens, reconnu pour son innovation et son écosystème IT robuste.
-        description: | # this will include new lines to allow paragraphs
-          Je contribue à la **modernisation des environnements techniques** et à l’**automatisation des processus opérationnels** au sein du système d’information de la Société Générale.
-      
-          **Réalisations clés :**
-      
-          • Conception, implémentation et maintenance de **workflows GitHub Actions** pour la partie build (backend, frontend, batch).  
-          • Automatisation du **déploiement** via **GitHub Actions**, **Helm**, **ArgoCD** et **Kubernetes**.  
-          • Travail sur la **plateforme cloud privée DoItNow**, intégration et supervision de composants (**RabbitMQ**, **OCP**, **PostgreSQL**, **Elasticsearch**, **Kibana**, **Vault**, **DNS**, certificats).  
-          • Migration des instances **Grafana** vers une **plateforme Dataviz centralisée**, améliorant l’observabilité.  
-          • Migration des bases **Oracle Gen1 → Gen2** sur OCP et automatisation du provisioning via **Terraform**.  
-          • Développement de scripts **Python** et **Kubernetes CronJobs** pour automatiser les tâches opérationnelles.  
-          • Amélioration de la **résilience** et des **logs** des scripts en production.  
-          • Rédaction de **documentation technique** et partage des **bonnes pratiques**.  
-          • Support et gestion d’incidents en **production** (interventions hors horaires).  
-          • **Décommissionnement progressif** des environnements et services legacy.  
-          • **Veille technologique** continue sur les outils DevOps, CI/CD et observabilité.
 
       - layout: left
         title: Euronext (Mission ASTRELYA)
