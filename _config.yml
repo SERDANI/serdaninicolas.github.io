@@ -57,12 +57,12 @@ content:
           • Mise en place et maintenance de **workflows GitHub Actions** pour la **CI/CD** des applications back-end, front-end et batchs.  
           • Administration du **cloud privé DoItNow** : intégration, supervision et maintenance de **RabbitMQ**, **OpenShift (OCP)**, **PostgreSQL**, **Elasticsearch**, **Kibana**, **Vault**, **DNS** et **certificats**.  
           • Développement d’**automatisations et actions self-service RBAC** sur plusieurs composants de la plateforme :  
-            - **RabbitMQ** : gestion des comptes et mots de passe, replay/purge des DLQ et suppression de queues sans consumer.  
-            - **PostgreSQL** : création/suppression de schémas, utilisateurs et owners, et mise à jour des mots de passe.  
-            - **Azure Secrets** : gestion du cycle de vie des secrets, recherche par valeur et listing par service ou secrets communs.  
-            - **Vault** : gestion des paths et secrets, recherche/listing de clés et valeurs, clés communes et comparaison de données.  
-            - **Kubernetes** : relance d’un service ou d’une plateforme complète au niveau du namespace.  
-            - **Elasticsearch** : création et gestion de comptes de service, utilisateurs applicatifs et comptes de monitoring.  
+          • **RabbitMQ** : gestion des comptes et mots de passe, replay/purge des DLQ et suppression de queues sans consumer.  
+          • **PostgreSQL** : création/suppression de schémas, utilisateurs et owners, et mise à jour des mots de passe.  
+          • **Azure Secrets** : gestion du cycle de vie des secrets, recherche par valeur et listing par service ou secrets communs.  
+          • **Vault** : gestion des paths et secrets, recherche/listing de clés et valeurs, clés communes et comparaison de données.  
+          • **Kubernetes** : relance d’un service ou d’une plateforme complète au niveau du namespace.  
+          • **Elasticsearch** : création et gestion de comptes de service, utilisateurs applicatifs et comptes de monitoring.  
           • Mise en place d’**alertes Azure** sur les **pods en échec**, **RabbitMQ** et **PostgreSQL** pour améliorer la détection proactive des incidents.  
           • **Migration des instances Grafana** vers une instance **Dataviz** pour unifier et fiabiliser le monitoring.  
           • **Migration des bases Oracle GEN1 vers GEN2** sur cloud privé (OCP), avec **automatisation du déploiement des instances via Terraform**.  
