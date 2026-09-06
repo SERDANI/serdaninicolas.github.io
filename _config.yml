@@ -44,7 +44,7 @@ content:
   - title: Expériences
     layout: list
     content:
-      - layout: left
+      - layout: top
         title: '<img src="images/logo_sg.png" height="60"><br><br>Société Générale (Mission ASTRELYA)'
         sub_title: Ingénieur DevOps
         caption: Février 2024 – Aujourd’hui
@@ -53,14 +53,17 @@ content:
           La Société Générale est l’un des principaux groupes bancaires européens, reconnue pour son innovation et la modernisation de son SI.
         description: |
           J’interviens sur la **modernisation des environnements techniques** et l’**automatisation des processus d’exploitation** au sein du SI de la Société Générale.<br><br>
+          • **Environnement international : mission réalisée à environ 70 % en anglais**, incluant la documentation technique, les e-mails, les échanges Teams et la communication avec les équipes internationales.  
           • Mise en place et maintenance de **workflows GitHub Actions** pour la **CI/CD** des applications back-end, front-end et batchs.  
           • Administration du **cloud privé DoItNow**, incluant l’intégration, la supervision et la maintenance de composants tels que **RabbitMQ**, **OpenShift (OCP)**, **PostgreSQL**, **Elasticsearch**, **Kibana**, **Vault**, **DNS** et **certificats**.  
-          • Développement et maintenance d’**actions RBAC RabbitMQ** : création de comptes utilisateurs ou services, mise à jour des mots de passe, replay de messages en DLQ, suppression de queues sans consumer et purge des DLQ.  
-          • Développement et maintenance d’**actions RBAC PostgreSQL** : création et suppression de schémas, utilisateurs et owners, ainsi que mise à jour des mots de passe utilisateurs.  
-          • Développement et maintenance d’**actions RBAC Azure Secrets** : vérification, création, mise à jour et suppression de secrets, recherche par valeur, listing par service et gestion des secrets communs.  
-          • Développement et maintenance d’**actions RBAC Vault** : création de paths, ajout, mise à jour et suppression de secrets, listing et recherche de clés/valeurs, gestion des clés communes et comparaison de données Vault.  
-          • Développement et maintenance d’**actions RBAC Kubernetes** : relance d’un service ou de l’ensemble d’une plateforme au niveau du namespace.  
-          • Développement et maintenance d’**actions RBAC Elasticsearch** : création de comptes de service applicatifs, mise à jour de mots de passe et création de comptes utilisateurs applicatifs ou de monitoring.  
+          • **Automatisation et self-service RBAC** sur plusieurs composants de la plateforme :  
+            - **RabbitMQ** : création de comptes utilisateurs ou services, mise à jour des mots de passe, replay de messages en DLQ, suppression de queues sans consumer et purge des DLQ.  
+            - **PostgreSQL** : création et suppression de schémas, utilisateurs et owners, création de schémas seuls et mise à jour des mots de passe utilisateurs.  
+            - **Azure Secrets** : vérification, création, mise à jour et suppression de secrets, recherche par valeur, listing par service et gestion des secrets communs.  
+            - **Vault** : création de paths, ajout, mise à jour et suppression de secrets, listing et recherche de clés/valeurs, gestion des clés communes et comparaison de données Vault.  
+            - **Kubernetes** : relance d’un service ou de l’ensemble d’une plateforme au niveau du namespace.  
+            - **Elasticsearch** : création de comptes de service applicatifs, mise à jour de mots de passe et création de comptes utilisateurs applicatifs ou de monitoring.  
+          • Mise en place d’**alertes Azure** pour la supervision proactive des **pods en échec**, ainsi que des services **RabbitMQ** et **PostgreSQL**, afin d’améliorer la détection et la prise en charge des incidents.  
           • **Migration des instances Grafana** vers une instance **Dataviz** pour unifier et fiabiliser le monitoring.  
           • **Migration des bases Oracle GEN1 vers GEN2** sur cloud privé (OCP), avec **automatisation du déploiement des instances via Terraform**.  
           • **Automatisation et orchestration** de tâches via **Kubernetes CronJobs** et **Python**.  
@@ -175,6 +178,7 @@ content:
         <img src="images/logo_terra.png" style="height:55px; max-width:100%;" title="Terraform">
         <img src="images/logo_ansible.png" style="height:55px; max-width:100%;" title="Ansible">
         <img src="images/logo_git.png" style="height:55px; max-width:100%;" title="GitHub Actions">
+        <img src="images/logo_azure.png" style="height:55px; max-width:100%;" title="Microsoft Azure">
         <img src="images/logo_aws.png" style="height:55px; max-width:100%;" title="AWS">
       </div>
     
