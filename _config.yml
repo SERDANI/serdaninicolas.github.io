@@ -49,8 +49,9 @@ content:
         sub_title: Ingénieur DevOps
         caption: Février 2024 – Aujourd’hui
         link: https://www.societegenerale.com
+        quote: >
+          Mission DevOps orientée automatisation, cloud privé, self-service et fiabilisation des environnements de production.
         description: |
-          J’interviens sur la **modernisation des environnements techniques** et l’**automatisation des processus d’exploitation** au sein du SI de la Société Générale.<br><br>
           • **CI/CD & automatisation** : mise en place et maintenance de workflows **GitHub Actions**, automatisation et orchestration de tâches via **Kubernetes CronJobs** et **Python**.  
           • **Cloud & plateformes** : administration du cloud privé **DoItNow / OpenShift (OCP)** et exploitation de composants **RabbitMQ**, **PostgreSQL**, **Elasticsearch**, **Kibana**, **Vault**, **DNS** et **certificats**.  
           • **Self-service & RBAC** : développement d’actions automatisées pour **RabbitMQ**, **PostgreSQL**, **Azure Secrets**, **Vault**, **Kubernetes** et **Elasticsearch** couvrant la gestion des comptes, mots de passe, secrets, schémas, clés et opérations d’exploitation (DLQ, queues, relance de services).  
@@ -63,6 +64,8 @@ content:
         sub_title: Ingénieur DevOps
         caption: Octobre 2021 – Février 2024
         link: https://www.euronext.com
+        quote: >
+          Mission DevOps centrée sur l’observabilité, la centralisation des logs et l’automatisation des déploiements.
         description: |
           Intégré à l’équipe DevOps d’Euronext, j’ai travaillé sur la **centralisation des logs et métriques applicatives** afin d’améliorer l’observabilité et la supervision.<br><br>
           • Centralisation des **logs applicatifs** et **métriques systèmes** on-premises, avec supervision des **Kafka topics** et **MySQLd Exporter**.  
@@ -76,6 +79,8 @@ content:
         sub_title: DevOps Engineer
         caption: Mai 2020 – Octobre 2021
         link: https://www.orange.com
+        quote: >
+          Industrialisation et automatisation des opérations à travers le développement d’automates.
         description: |
           Membre de l’équipe DOMA (DévelOppement-AutoMAtisation), j’ai contribué au **développement et au maintien d’automates** destinés à l’industrialisation des processus d’Orange.<br><br>
           • Développement et maintien d’automates via **Ansible** et **Python**, de la phase de test à la mise en production.  
@@ -88,6 +93,8 @@ content:
         sub_title: Ingénieur de production informatique
         caption: Décembre 2017 – Mai 2020
         link: https://group.bnpparibas
+        quote: >
+          Production informatique, automatisation et maintien en conditions opérationnelles d’environnements critiques.
         description: |
           Administration, analyse et résolution de problèmes applicatifs impactant les environnements de production BNP Paribas.<br><br>
           • **Pilotage opérationnel** : management, formation des nouveaux arrivants, animation des réunions de suivi et gestion des tâches problèmes via **ITSM** et **SharePoint**.  
@@ -100,6 +107,8 @@ content:
         sub_title: Analyste d’exploitation (alternance)
         caption: Janvier 2015 – Décembre 2017
         link: https://group.bnpparibas
+        quote: >
+          Exploitation et administration d’environnements de production bancaire.
         description: |
           Traitement d’incidents de production et maintien en conditions opérationnelles.<br><br>
           • Administration des **bases Oracle / MS SQL**, **WebSphere** et comptes sécurisés **eTac / Entrust**.  
@@ -111,6 +120,8 @@ content:
         sub_title: Technicien de support (stage)
         caption: Avril 2014 – Juin 2014
         link: https://group.bnpparibas
+        quote: >
+          Support informatique et administration du parc utilisateurs.
         description: |
           • Support utilisateurs et résolution d’incidents techniques.  
           • Gestion du parc via **I-P@rk**, maintenance du matériel et administration des utilisateurs via **Active Directory**.
